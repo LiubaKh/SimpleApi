@@ -1,0 +1,6 @@
+dist: trusty
+  jdk: oraclejdk17
+  language: java
+  services:
+    - postgresql
+    - docker
